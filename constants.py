@@ -1,12 +1,12 @@
 #constants.py
 SCREENWIDTH = 288
-SCREENHEIGHT = 512
-
+SCREENHEIGHT = 510
+# values are updated
 FPS = 30
 
 totalPlayers = 50
-totalParents = 20
-
+totalParents = 30
+#updated in line number 9
 PIPEGAPSIZE = 150
 BASEY = SCREENHEIGHT * 0.79
 
