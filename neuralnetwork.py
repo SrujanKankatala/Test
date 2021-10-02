@@ -1,7 +1,9 @@
 from keras.models import Sequential
 from keras.layers import Dense, Activation
 from keras.optimizers import SGD
+import math
 
+# Initializing totalPlayers number of standard models, appending them and returning the list
 
 def createModel(totalPlayers):
     cp =[]
